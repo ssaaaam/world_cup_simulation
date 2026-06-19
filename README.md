@@ -3,7 +3,7 @@
 Treball Final de Grau del **Grau en Matemàtica Computacional i Analítica de Dades** (UAB).
 
 - **Autor:** Sergi Almendros Montoya
-- **Supervisor:** Llorenç Badiella Busquets
+- **Coautor:** Llorenç Badiella Busquets
 - **Data:** Juny de 2026
 
 ## Resum
@@ -86,5 +86,5 @@ Els resultats es desen a `results/`.
 Si fas servir aquest treball, pots citar-lo com:
 
 ```
-Almendros Montoya, S. (2026). Modelització probabilística en futbol internacional: el cas del Mundial 2026. Treball Final de Grau, Universitat Autònoma de Barcelona.
+Almendros Montoya, S., Badiella L. (2026). Modelització probabilística en futbol internacional: el cas del Mundial 2026. Treball Final de Grau, Universitat Autònoma de Barcelona.
 ```

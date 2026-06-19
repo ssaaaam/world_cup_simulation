@@ -1,0 +1,21 @@
+# Processat de dades i càlcul numèric
+numpy
+pandas
+scipy
+ 
+# Model estadístic (GLM de Poisson, test de Wald)
+statsmodels
+ 
+# Gràfics
+matplotlib
+seaborn
+ 
+# Scraping del quadre de combinacions de tercers (Annex C)
+requests
+beautifulsoup4
+ 
+# Barres de progrés per a les simulacions Monte Carlo (opcional)
+tqdm
+ 
+# Notebooks
+jupyter
